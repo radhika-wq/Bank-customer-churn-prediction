@@ -78,6 +78,19 @@ Evaluated using:
 
 ---
 
+# 📊 Classification Report
+
+| Class | Precision | Recall | F1-Score |
+|---|---|---|---|
+| Existing Customer (0) | 0.97 | 0.97 | 0.97 |
+| Attrited Customer (1) | 0.85 | 0.83 | 0.84 |
+
+Overall Accuracy: **95%**
+
+ROC-AUC Score: **0.98**
+
+---
+
 # 📈 Model Performance
 
 | Metric | Score |
@@ -163,6 +176,11 @@ Features included in dashboard:
 - Authentication system
 
 ---
+
+# 🎥 Demo Video
+
+[Watch Project Demo]((https://drive.google.com/file/d/1vW3E6Ns0lyJNZj_lnQBCUG6RLRCYELhD/view?usp=sharing
+))
 
 # 👩‍💻 Author
 
