@@ -168,7 +168,6 @@ Features included in dashboard:
 
 ## Radhika
 
-Machine Learning & AI Enthusiast
 
 GitHub:
 https://github.com/radhika-wq
