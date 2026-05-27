@@ -179,12 +179,11 @@ Features included in dashboard:
 
 # 🎥 Demo Video
 
-[Watch Project Demo]((https://drive.google.com/file/d/1vW3E6Ns0lyJNZj_lnQBCUG6RLRCYELhD/view?usp=sharing
-))
+[🎥 Watch Project Demo](https://drive.google.com/file/d/1vW3E6Ns0lyJNZj_1nQBCUG6RLRCYELhD/view?usp=sharing)
 
 # 👩‍💻 Author
 
-## Radhika
+## Radhika (24117108)
 
 
 GitHub:
